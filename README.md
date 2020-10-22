@@ -1,2 +1,2 @@
 # BlindGui
-Software utilizado para guiar pessoas com deficiência visual em ambientes fechados.
+Software utilizado para guiar pessoas com deficiência visual em ambientes internos.
